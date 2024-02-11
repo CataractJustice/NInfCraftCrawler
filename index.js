@@ -7,14 +7,14 @@ class Entry
 	{
 		this.word = word;
 		this.checkedUpTo = 0;
-		this.recipies = [];
+		this.recipes = [];
 		this.isNew = isNew;
 		this.emoji = emoji;
 	}
 
 	addRecipie(firstWord, secondWord) 
 	{
-		this.recipies.push({firstWord, secondWord});
+		this.recipes.push({firstWord, secondWord});
 	}
 }
 
@@ -25,9 +25,9 @@ for(const e of savedEntries.entries)
 	const entry = new Entry(e.word, e.emoji, e.isNew);
 	knownEntries.push(entry);
 	entry.checkedUpTo = e.checkedUpTo;
-	for(const r of e.recipies) 
+	for(const r of e.recipes) 
 	{
-		entry.addRecipie(r.firstWord, f.secondWord);
+		entry.addRecipie(r.firstWord, r.secondWord);
 	}
 }
 const knownTable = savedEntries.entriesMap;
@@ -88,6 +88,16 @@ function fetchAndRecord(entryIndexA, entryIndexB)
 	});
 }
 
+function saveProgress() 
+{
+	console.log("Saving progress");
+	fs.writeFileSync("save.json", JSON.stringify({
+		"entries": knownEntries,
+		"entriesMap": knownTable,
+		"failed": failedFetches
+	}));
+}
+
 const loopsCount = 1;
 async function run() 
 {
@@ -122,13 +132,12 @@ async function run()
 		}
 	}
 	
-	console.log(knownEntries);
-	fs.writeFileSync("save.json", JSON.stringify({
-		"entries": knownEntries,
-		"entriesMap": knownTable,
-		"failed": failedFetches
-	}));
+	saveProgress();
 }
 
+process.on('SIGINT', function() {
+    saveProgress();
+	process.exit();
+});
 
 run();
