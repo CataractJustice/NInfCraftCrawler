@@ -1,0 +1,3 @@
+1) Right now saved entries are written once at the end of program execution
+Would be nice if the save was updated during the execution
+2) Should either use a DB or some custom binary format instead of JSON

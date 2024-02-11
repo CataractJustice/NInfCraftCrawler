@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "word": "Water",
+	  "emoji": "💧",
+	  "isNew": false,
+	  "checkedUpTo": 0,
+      "recipies": []
+    },
+    {
+      "word": "Fire",
+	  "emoji": "🔥",
+	  "isNew": false,
+	  "checkedUpTo": 0,
+      "recipies": []
+    },
+    {
+      "word": "Wind",
+	  "emoji": "🌬️",
+	  "isNew": false,
+	  "checkedUpTo": 0,
+      "recipies": []
+    },
+    {
+      "word": "Earth",
+	  "emoji": "🌍",
+	  "isNew": false,
+	  "checkedUpTo": 0,
+      "recipies": []
+    }
+  ],
+  "entriesMap": {
+    "Water": 0,
+    "Fire": 1,
+    "Wind": 2,
+    "Earth": 3
+  },
+  "failed": []
+}
