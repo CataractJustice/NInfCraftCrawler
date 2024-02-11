@@ -2,35 +2,58 @@
   "entries": [
     {
       "word": "Water",
-      "checkedUpTo": 17,
-      "recipes": [],
+      "checkedUpTo": 26,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Ice"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Iceberg"
+        }
+      ],
       "isNew": false,
       "emoji": "💧"
     },
     {
       "word": "Fire",
-      "checkedUpTo": 7,
+      "checkedUpTo": 35,
       "recipes": [],
       "isNew": false,
       "emoji": "🔥"
     },
     {
       "word": "Wind",
-      "checkedUpTo": 0,
-      "recipes": [],
+      "checkedUpTo": 57,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Windmill"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Kite"
+        }
+      ],
       "isNew": false,
       "emoji": "🌬️"
     },
     {
       "word": "Earth",
-      "checkedUpTo": 0,
-      "recipes": [],
+      "checkedUpTo": 88,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Planet"
+        }
+      ],
       "isNew": false,
       "emoji": "🌍"
     },
     {
       "word": "Lake",
-      "checkedUpTo": 0,
+      "checkedUpTo": 136,
       "recipes": [
         {
           "firstWord": "Water",
@@ -42,7 +65,7 @@
     },
     {
       "word": "Steam",
-      "checkedUpTo": 0,
+      "checkedUpTo": 7,
       "recipes": [
         {
           "firstWord": "Water",
@@ -55,6 +78,26 @@
         {
           "firstWord": "Fire",
           "secondWord": "Wave"
+        },
+        {
+          "firstWord": "Water",
+          "secondWord": "Engine"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Ocean"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Engine"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fire Breath"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fire Storm"
         }
       ],
       "isNew": false,
@@ -67,6 +110,10 @@
         {
           "firstWord": "Water",
           "secondWord": "Wind"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Water"
         }
       ],
       "isNew": false,
@@ -79,6 +126,38 @@
         {
           "firstWord": "Water",
           "secondWord": "Earth"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Water"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Rain"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Sun"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Boiled Fish"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Seed"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Flower"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Soil"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Pot"
         }
       ],
       "isNew": false,
@@ -95,6 +174,46 @@
         {
           "firstWord": "Water",
           "secondWord": "Tsunami"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Water"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Lake"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Tsunami"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Rain"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fishbowl"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Pond"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sea"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Beach"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fjord"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "River"
         }
       ],
       "isNew": false,
@@ -106,6 +225,42 @@
       "recipes": [
         {
           "firstWord": "Water",
+          "secondWord": "Steam"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Steam"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Smoke"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Fog"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Mist"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Steam"
+        },
+        {
+          "firstWord": "Steam",
+          "secondWord": "Water"
+        },
+        {
+          "firstWord": "Steam",
+          "secondWord": "Wind"
+        },
+        {
+          "firstWord": "Steam",
+          "secondWord": "Lake"
+        },
+        {
+          "firstWord": "Steam",
           "secondWord": "Steam"
         }
       ],
@@ -119,6 +274,22 @@
         {
           "firstWord": "Water",
           "secondWord": "Wave"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Wave"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Tornado"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Storm"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Hurricane"
         }
       ],
       "isNew": false,
@@ -135,6 +306,50 @@
         {
           "firstWord": "Water",
           "secondWord": "Marsh"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Marsh"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Lake"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Marsh"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Pond"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Earth"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Marsh"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Mud"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Tree"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Forest"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Soil"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Field"
         }
       ],
       "isNew": false,
@@ -151,6 +366,54 @@
         {
           "firstWord": "Water",
           "secondWord": "Fishbowl"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Boiled Fish"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Aquarium"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Lightning"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sushi"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Goldfish"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Boiled Fish"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Flying Fish"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Aquarium"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Farm"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fishing"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Seaplane"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Seagull"
         }
       ],
       "isNew": false,
@@ -167,6 +430,26 @@
         {
           "firstWord": "Water",
           "secondWord": "Rainbow"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Rainbow"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Rainbow"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Cloud"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Rainbow"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Cloud"
         }
       ],
       "isNew": false,
@@ -178,6 +461,10 @@
       "recipes": [
         {
           "firstWord": "Water",
+          "secondWord": "Swamp"
+        },
+        {
+          "firstWord": "Lake",
           "secondWord": "Swamp"
         }
       ],
@@ -203,6 +490,10 @@
         {
           "firstWord": "Water",
           "secondWord": "Rain"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Rain"
         }
       ],
       "isNew": false,
@@ -219,6 +510,66 @@
         {
           "firstWord": "Fire",
           "secondWord": "Lake"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Tsunami"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Smoke"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Lava"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Rock"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Lava"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Eruption"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Smoke"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Lightning"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Fire Breath"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Eruption"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Fire Storm"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Mountain"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fire"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Lava"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Eruption"
         }
       ],
       "isNew": false,
@@ -235,6 +586,18 @@
         {
           "firstWord": "Fire",
           "secondWord": "Plant"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Plant"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Fog"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Fire"
         }
       ],
       "isNew": false,
@@ -247,6 +610,26 @@
         {
           "firstWord": "Fire",
           "secondWord": "Earth"
+        },
+        {
+          "firstWord": "Water",
+          "secondWord": "Volcano"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Volcano"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Stone"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Fire"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Volcano"
         }
       ],
       "isNew": false,
@@ -259,10 +642,1870 @@
         {
           "firstWord": "Fire",
           "secondWord": "Steam"
+        },
+        {
+          "firstWord": "Steam",
+          "secondWord": "Fire"
         }
       ],
       "isNew": false,
       "emoji": "🚗"
+    },
+    {
+      "word": "Fog",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Water",
+          "secondWord": "Smoke"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Smoke"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Mist"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌫️"
+    },
+    {
+      "word": "Stone",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Water",
+          "secondWord": "Lava"
+        },
+        {
+          "firstWord": "Water",
+          "secondWord": "Rock"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Lava"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🪨"
+    },
+    {
+      "word": "Ice",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Water",
+          "secondWord": "Fog"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Iceberg"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Snow"
+        }
+      ],
+      "isNew": false,
+      "emoji": "❄️"
+    },
+    {
+      "word": "Rock",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Water",
+          "secondWord": "Stone"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Stone"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🪨"
+    },
+    {
+      "word": "Iceberg",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Water",
+          "secondWord": "Ice"
+        },
+        {
+          "firstWord": "Water",
+          "secondWord": "Iceberg"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Ice"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Iceberg"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Blizzard"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌊"
+    },
+    {
+      "word": "Lightning",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Cloud"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Electricity"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Electricity"
+        }
+      ],
+      "isNew": false,
+      "emoji": "⚡️"
+    },
+    {
+      "word": "Dragon",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Swamp"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Dragon"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Fire Breath"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐉"
+    },
+    {
+      "word": "Sushi",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Fish"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Wasabi"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Wasabi"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🍣"
+    },
+    {
+      "word": "Goldfish",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Fishbowl"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐠"
+    },
+    {
+      "word": "Sun",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Lightning"
+        },
+        {
+          "firstWord": "Fire",
+          "secondWord": "Solar"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Sunflower"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Sunflower"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Solar"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sunflower"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sunrise"
+        }
+      ],
+      "isNew": false,
+      "emoji": "☀️"
+    },
+    {
+      "word": "Wasabi",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Sushi"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌶️"
+    },
+    {
+      "word": "Boiled Fish",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Goldfish"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐟"
+    },
+    {
+      "word": "Solar",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Sun"
+        }
+      ],
+      "isNew": false,
+      "emoji": "☀️"
+    },
+    {
+      "word": "Fire Breath",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Fire",
+          "secondWord": "Wasabi"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🔥"
+    },
+    {
+      "word": "Tornado",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Wind"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Fishbowl"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Dragon"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Wasabi"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Tornado"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Storm"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Hurricane"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Fire Storm"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Dust Storm"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Storm"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Hurricane"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌪️"
+    },
+    {
+      "word": "Dust",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Earth"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Rock"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Wind"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Tornado"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Mist"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dust Storm"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌫️"
+    },
+    {
+      "word": "Storm",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Lake"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Wave"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Ocean"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Cloud"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Rain"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Lightning"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Electricity"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Wind"
+        }
+      ],
+      "isNew": false,
+      "emoji": "⛈️"
+    },
+    {
+      "word": "Dandelion",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Plant"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Seed"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌼"
+    },
+    {
+      "word": "Hurricane",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Tsunami"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌀"
+    },
+    {
+      "word": "Mist",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Swamp"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Marsh"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Fog"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fog"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌫️"
+    },
+    {
+      "word": "Flying Fish",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Fish"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Sushi"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐟"
+    },
+    {
+      "word": "Eruption",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Volcano"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌋"
+    },
+    {
+      "word": "Windmill",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Engine"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Solar"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌬️"
+    },
+    {
+      "word": "Sand",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Stone"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Dune"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Wave"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Dune"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Dust Storm"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Desert"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏖️"
+    },
+    {
+      "word": "Snow",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Ice"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Iceberg"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Blizzard"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Ice"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Blizzard"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Snowman"
+        }
+      ],
+      "isNew": false,
+      "emoji": "❄️"
+    },
+    {
+      "word": "Kite",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Goldfish"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Boiled Fish"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Airplane"
+        },
+        {
+          "firstWord": "Wind",
+          "secondWord": "Flying"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🪁"
+    },
+    {
+      "word": "Sunflower",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Sun"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌻"
+    },
+    {
+      "word": "Fire Storm",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Fire Breath"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🔥"
+    },
+    {
+      "word": "Sandstorm",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Dust"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌪️"
+    },
+    {
+      "word": "Seed",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Dandelion"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌱"
+    },
+    {
+      "word": "Airplane",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Flying Fish"
+        }
+      ],
+      "isNew": false,
+      "emoji": "✈️"
+    },
+    {
+      "word": "Electricity",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Windmill"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Windmill"
+        }
+      ],
+      "isNew": false,
+      "emoji": "⚡️"
+    },
+    {
+      "word": "Dune",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Sand"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Sandstorm"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌵"
+    },
+    {
+      "word": "Blizzard",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Snow"
+        }
+      ],
+      "isNew": false,
+      "emoji": "❄️"
+    },
+    {
+      "word": "Flying",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Kite"
+        }
+      ],
+      "isNew": false,
+      "emoji": "✈️"
+    },
+    {
+      "word": "Dust Storm",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Wind",
+          "secondWord": "Sandstorm"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌪️"
+    },
+    {
+      "word": "Mountain",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Earth"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Rock"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Dragon"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏔️"
+    },
+    {
+      "word": "Mud",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Steam"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Swamp"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dust"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dirt"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Clay"
+        },
+        {
+          "firstWord": "Steam",
+          "secondWord": "Earth"
+        }
+      ],
+      "isNew": false,
+      "emoji": "💩"
+    },
+    {
+      "word": "Tree",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Plant"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Forest"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌳"
+    },
+    {
+      "word": "Island",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Ocean"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Tsunami"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Whale"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Volcano"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Rock"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Island"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Land"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏝️"
+    },
+    {
+      "word": "Whale",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Fish"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐳"
+    },
+    {
+      "word": "Aquarium",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Fishbowl"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐠"
+    },
+    {
+      "word": "Tractor",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Engine"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🚜"
+    },
+    {
+      "word": "Rice",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Sushi"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Paddy"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Paddy"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🍚"
+    },
+    {
+      "word": "Pond",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Goldfish"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐸"
+    },
+    {
+      "word": "Planet",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Solar"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Dust"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🪐"
+    },
+    {
+      "word": "Flower",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Dandelion"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌸"
+    },
+    {
+      "word": "Bird",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Flying Fish"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Flying"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐦"
+    },
+    {
+      "word": "Desert",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Sand"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏜️"
+    },
+    {
+      "word": "Snowman",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Snow"
+        }
+      ],
+      "isNew": false,
+      "emoji": "☃️"
+    },
+    {
+      "word": "Dirt",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Kite"
+        }
+      ],
+      "isNew": false,
+      "emoji": "💩"
+    },
+    {
+      "word": "Landing",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Airplane"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🛬"
+    },
+    {
+      "word": "Clay",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Mud"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏺"
+    },
+    {
+      "word": "Forest",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Tree"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌲"
+    },
+    {
+      "word": "Continent",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Island"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Land"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌎"
+    },
+    {
+      "word": "Farm",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Tractor"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Field"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐄"
+    },
+    {
+      "word": "Paddy",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Rice"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🍀"
+    },
+    {
+      "word": "Moon",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Planet"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Landing"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Eclipse"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Eclipse"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌙"
+    },
+    {
+      "word": "Chicken",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Bird"
+        },
+        {
+          "firstWord": "Earth",
+          "secondWord": "Egg"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐔"
+    },
+    {
+      "word": "Soil",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Dirt"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌱"
+    },
+    {
+      "word": "Pottery",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Clay"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏺"
+    },
+    {
+      "word": "Land",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Continent"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌄"
+    },
+    {
+      "word": "Field",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Farm"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Plow"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌾"
+    },
+    {
+      "word": "Eclipse",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Moon"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌑"
+    },
+    {
+      "word": "Egg",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Chicken"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🥚"
+    },
+    {
+      "word": "Vase",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Pottery"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Pottery"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏺"
+    },
+    {
+      "word": "Pot",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Earth",
+          "secondWord": "Vase"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🥘"
+    },
+    {
+      "word": "Lily",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Plant"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Flower"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌸"
+    },
+    {
+      "word": "Sea",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Ocean"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Poseidon"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌊"
+    },
+    {
+      "word": "Fishing",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fish"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🎣"
+    },
+    {
+      "word": "Unicorn",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Rainbow"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🦄"
+    },
+    {
+      "word": "Boat",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Engine"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🚤"
+    },
+    {
+      "word": "Lighthouse",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Stone"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌅"
+    },
+    {
+      "word": "Loch Ness Monster",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dragon"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Whale"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐊"
+    },
+    {
+      "word": "Sunset",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sun"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌅"
+    },
+    {
+      "word": "Wish",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dandelion"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌠"
+    },
+    {
+      "word": "Beach",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sand"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏖️"
+    },
+    {
+      "word": "Oasis",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sandstorm"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dune"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Desert"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Mirage"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏜️"
+    },
+    {
+      "word": "Lotus",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Seed"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Lily"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Water Lily"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌺"
+    },
+    {
+      "word": "Seaplane",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Airplane"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🛩️"
+    },
+    {
+      "word": "Seagull",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Flying"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐦"
+    },
+    {
+      "word": "Fjord",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Mountain"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏞️"
+    },
+    {
+      "word": "Plow",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Tractor"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🚜"
+    },
+    {
+      "word": "Sake",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Rice"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🍶"
+    },
+    {
+      "word": "Swan",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Bird"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Chicken"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Duck"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Leda"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🦢"
+    },
+    {
+      "word": "Yeti",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Snowman"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🧊"
+    },
+    {
+      "word": "Dock",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Landing"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Pier"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🪜"
+    },
+    {
+      "word": "America",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Continent"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🇺🇸"
+    },
+    {
+      "word": "Werewolf",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Moon"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Werewolf"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐺"
+    },
+    {
+      "word": "Duck",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Egg"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🦆"
+    },
+    {
+      "word": "Urn",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Vase"
+        }
+      ],
+      "isNew": false,
+      "emoji": "⚱️"
+    },
+    {
+      "word": "Soup",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Pot"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Soup"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🍲"
+    },
+    {
+      "word": "Mermaid",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Unicorn"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🧜‍♀️"
+    },
+    {
+      "word": "Ship",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Boat"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Lighthouse"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🚢"
+    },
+    {
+      "word": "Nessie",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Loch Ness Monster"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Yeti"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Mermaid"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Genie"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐙"
+    },
+    {
+      "word": "Sunrise",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sunset"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌅"
+    },
+    {
+      "word": "Genie",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Wish"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🧞‍♂️"
+    },
+    {
+      "word": "Mirage",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Oasis"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌵"
+    },
+    {
+      "word": "Water Lily",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Lotus"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌸"
+    },
+    {
+      "word": "Japan",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Sake"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🗾"
+    },
+    {
+      "word": "Leda",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Swan"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌌"
+    },
+    {
+      "word": "Pier",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Dock"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏝️"
+    },
+    {
+      "word": "Niagara Falls",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "America"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌊"
+    },
+    {
+      "word": "Fountain",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Urn"
+        }
+      ],
+      "isNew": false,
+      "emoji": "⛲"
+    },
+    {
+      "word": "Pirate",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Ship"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Treasure"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏴‍☠️"
+    },
+    {
+      "word": "Monster",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Nessie"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Loch Ness"
+        }
+      ],
+      "isNew": false,
+      "emoji": "👾"
+    },
+    {
+      "word": "Tokyo",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Japan"
+        },
+        {
+          "firstWord": "Lake",
+          "secondWord": "Tokyo Bay"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🗼"
+    },
+    {
+      "word": "Hydroelectricity",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Niagara Falls"
+        }
+      ],
+      "isNew": false,
+      "emoji": "💦"
+    },
+    {
+      "word": "Waterfall",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Fountain"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌊"
+    },
+    {
+      "word": "Treasure",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Pirate"
+        }
+      ],
+      "isNew": false,
+      "emoji": "💎"
+    },
+    {
+      "word": "Loch Ness",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Monster"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🐊"
+    },
+    {
+      "word": "Tokyo Bay",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Tokyo"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🗼"
+    },
+    {
+      "word": "Electric Eel",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Hydroelectricity"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🦎"
+    },
+    {
+      "word": "River",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Waterfall"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌊"
+    },
+    {
+      "word": "Poseidon",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Lake",
+          "secondWord": "Electric Eel"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🌊"
+    },
+    {
+      "word": "Surf",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Steam",
+          "secondWord": "Wave"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🏄"
+    },
+    {
+      "word": "Tea",
+      "checkedUpTo": 0,
+      "recipes": [
+        {
+          "firstWord": "Steam",
+          "secondWord": "Plant"
+        }
+      ],
+      "isNew": false,
+      "emoji": "🍵"
     }
   ],
   "entriesMap": {
@@ -286,7 +2529,124 @@
     "Volcano": 17,
     "Smoke": 18,
     "Lava": 19,
-    "Engine": 20
+    "Engine": 20,
+    "Fog": 21,
+    "Stone": 22,
+    "Ice": 23,
+    "Rock": 24,
+    "Iceberg": 25,
+    "Lightning": 26,
+    "Dragon": 27,
+    "Sushi": 28,
+    "Goldfish": 29,
+    "Sun": 30,
+    "Wasabi": 31,
+    "Boiled Fish": 32,
+    "Solar": 33,
+    "Fire Breath": 34,
+    "Tornado": 35,
+    "Dust": 36,
+    "Storm": 37,
+    "Dandelion": 38,
+    "Hurricane": 39,
+    "Mist": 40,
+    "Flying Fish": 41,
+    "Eruption": 42,
+    "Windmill": 43,
+    "Sand": 44,
+    "Snow": 45,
+    "Kite": 46,
+    "Sunflower": 47,
+    "Fire Storm": 48,
+    "Sandstorm": 49,
+    "Seed": 50,
+    "Airplane": 51,
+    "Electricity": 52,
+    "Dune": 53,
+    "Blizzard": 54,
+    "Flying": 55,
+    "Dust Storm": 56,
+    "Mountain": 57,
+    "Mud": 58,
+    "Tree": 59,
+    "Island": 60,
+    "Whale": 61,
+    "Aquarium": 62,
+    "Tractor": 63,
+    "Rice": 64,
+    "Pond": 65,
+    "Planet": 66,
+    "Flower": 67,
+    "Bird": 68,
+    "Desert": 69,
+    "Snowman": 70,
+    "Dirt": 71,
+    "Landing": 72,
+    "Clay": 73,
+    "Forest": 74,
+    "Continent": 75,
+    "Farm": 76,
+    "Paddy": 77,
+    "Moon": 78,
+    "Chicken": 79,
+    "Soil": 80,
+    "Pottery": 81,
+    "Land": 82,
+    "Field": 83,
+    "Eclipse": 84,
+    "Egg": 85,
+    "Vase": 86,
+    "Pot": 87,
+    "Lily": 88,
+    "Sea": 89,
+    "Fishing": 90,
+    "Unicorn": 91,
+    "Boat": 92,
+    "Lighthouse": 93,
+    "Loch Ness Monster": 94,
+    "Sunset": 95,
+    "Wish": 96,
+    "Beach": 97,
+    "Oasis": 98,
+    "Lotus": 99,
+    "Seaplane": 100,
+    "Seagull": 101,
+    "Fjord": 102,
+    "Plow": 103,
+    "Sake": 104,
+    "Swan": 105,
+    "Yeti": 106,
+    "Dock": 107,
+    "America": 108,
+    "Werewolf": 109,
+    "Duck": 110,
+    "Urn": 111,
+    "Soup": 112,
+    "Mermaid": 113,
+    "Ship": 114,
+    "Nessie": 115,
+    "Sunrise": 116,
+    "Genie": 117,
+    "Mirage": 118,
+    "Water Lily": 119,
+    "Japan": 120,
+    "Leda": 121,
+    "Pier": 122,
+    "Niagara Falls": 123,
+    "Fountain": 124,
+    "Pirate": 125,
+    "Monster": 126,
+    "Tokyo": 127,
+    "Hydroelectricity": 128,
+    "Waterfall": 129,
+    "Treasure": 130,
+    "Loch Ness": 131,
+    "Tokyo Bay": 132,
+    "Electric Eel": 133,
+    "River": 134,
+    "Poseidon": 135,
+    "Surf": 136,
+    "Tea": 137
   },
   "failed": []
 }

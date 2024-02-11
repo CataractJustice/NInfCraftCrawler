@@ -98,7 +98,8 @@ function saveProgress()
 	}));
 }
 
-const loopsCount = 1;
+const loopsCount = 20;
+
 async function run() 
 {
 	for(let loopIndex = 0; loopIndex < loopsCount; loopIndex++) 
@@ -111,6 +112,10 @@ async function run()
 				console.log(`Skipped new discovery ${entryA.word}`);
 				continue;
 			}
+
+			//
+			if(checkedUpTo <= entryIndexA) checkedUpTo = entryIndexA;
+
 			while(entryA.checkedUpTo < knownEntries.length) 
 			{
 				if(!isNaN(parseInt(entryA.word)) && !isNaN(parseInt(knownEntries[entryIndexB].word))) 
